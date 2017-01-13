@@ -2,4 +2,4 @@
 this is a test file
 for the workshop
 on github
-It was changed in the branch
+changed in the branch
