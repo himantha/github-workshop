@@ -9,4 +9,6 @@ changes added locally from notepad
 
 Forked by na742
 
-CHANGE 5
+CHANGE 66
+
+CHANGE 77
